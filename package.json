@@ -1,6 +1,6 @@
 {
   "name": "alonzo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "work in progress",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/rsp/node-alonzo.git"
   },
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (https://rsp.github.io/)",
   "license": "MIT",
   "bugs": {
