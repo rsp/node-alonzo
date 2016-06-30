@@ -1,0 +1,21 @@
+{
+  "name": "alonzo",
+  "version": "0.0.0",
+  "description": "work in progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/node-alonzo.git"
+  },
+  "keywords": [
+  ],
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (https://rsp.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/node-alonzo/issues"
+  },
+  "homepage": "https://github.com/rsp/node-alonzo#readme"
+}
